@@ -1,2 +1,2 @@
 # 230105
-opencv 를 이용한 동영상 출력 (colab 환경)
+opencv 를 이용한 비디오 읽기 (colab 환경)
